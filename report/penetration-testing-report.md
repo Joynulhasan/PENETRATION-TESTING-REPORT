@@ -89,7 +89,7 @@ The project also demonstrated the importance of documenting security observation
 Recommended evidence:
 
 1. WHOIS
-(evidence/01-whois.png)
+[Dashboard](/evidence/01-whois-png)
 3. WhatWeb
 4. Nslookup
 5. Curl -I
