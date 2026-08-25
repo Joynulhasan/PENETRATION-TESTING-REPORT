@@ -86,16 +86,15 @@ The project also demonstrated the importance of documenting security observation
 
 ## 8. Evidence
 
-Screenshots and supporting evidence can be placed in the `evidence/` directory.
-
 Recommended evidence:
 
 1. WHOIS
-2. WhatWeb
-3. Nslookup
-4. Curl -I
-5. DNSRecon
-6. Wafw00f
-7. Zenmap Ping Scan
-8. Zenmap Topology
-9. Maltego domain/email footprinting
+(evidence/01-whois.png)
+3. WhatWeb
+4. Nslookup
+5. Curl -I
+6. DNSRecon
+7. Wafw00f
+8. Zenmap Ping Scan
+9. Zenmap Topology
+10. Maltego domain/email footprinting
