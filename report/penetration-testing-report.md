@@ -113,3 +113,5 @@ Recommended evidence:
 ![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/08-zenmap-topology.png)
 
 ##Maltego domain/email footprinting
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/09-maltego.png)
+
