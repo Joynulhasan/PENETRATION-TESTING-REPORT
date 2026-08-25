@@ -168,7 +168,6 @@ Penetration-Testing-Network-Scanning-Report/
 
 # 📸 Evidence
 
-Screenshots and supporting evidence from the following activities are included in the `evidence/` directory:
 
 * WHOIS
 * WhatWeb
