@@ -88,14 +88,28 @@ The project also demonstrated the importance of documenting security observation
 
 Recommended evidence:
 
-1. WHOIS
-### WHOIS
-![WHOIS Result](evidence/01-whois.png)
-3. WhatWeb
-4. Nslookup
-5. Curl -I
-6. DNSRecon
-7. Wafw00f
-8. Zenmap Ping Scan
-9. Zenmap Topology
-10. Maltego domain/email footprinting
+## WHOIS
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/01-whois.png)
+
+##WhatWeb
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/02-whatweb.png)
+
+##Nslookup
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/03-nslookup.png)
+
+##Curl -I
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/04-curl.png)
+
+##DNSRecon
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/05-dnsrecon.png)
+
+##Wafw00f
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/06-wafwoof.png)
+
+##Zenmap Ping Scan
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/07-zenmap.png)
+
+##Zenmap Topology
+![NIDS Dashboard](https://raw.githubusercontent.com/Joynulhasan/PENETRATION-TESTING-REPORT/main/evidence/08-zenmap-topology.png)
+
+##Maltego domain/email footprinting
