@@ -1,4 +1,4 @@
-# Networkwalks-Batch-B082-Week-2 Penetration Testing Report – Footprinting & Network Scanning
+# Penetration Testing Report – Footprinting & Network Scanning
 
 ## 📌 Project Overview
 
